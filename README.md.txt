@@ -1,3 +1,3 @@
 CAPPUCCINO Recipe
 
-Thug Playgroud by VMS
+This the Playgroud by VMS to learn GIT
